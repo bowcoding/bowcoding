@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bowcoding
 - 👀 I’m interested in coding and having a good time.
 - 🌱 I’m currently learning Python and HTML.
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- 💞️ I’m not looking to collaborate on anything at the moment.
 - 📫 How to reach me: blastoffwaters@protonmail.com
 
 <!---
